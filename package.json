@@ -1,0 +1,24 @@
+{
+  "name": "govee-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "govee-api": "^1.3.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/space-nerd/govee-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/space-nerd/govee-api/issues"
+  },
+  "homepage": "https://github.com/space-nerd/govee-api#readme"
+}
